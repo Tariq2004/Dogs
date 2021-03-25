@@ -1,0 +1,179 @@
+body{
+  font-family: "Montserrat" !important ;
+}
+
+h1{
+  color: #fff !important ;
+  font-family: 'Montserrat-Black 900 italic', sans-serif !important;
+  line-height: 1.5 !important;
+  font-size: 2rem !important;
+}
+
+h2{
+  line-height: 1.5 !important;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+  color: #000;
+  font-size: 1.5rem;
+}
+
+#title{
+  background-color:#ff4c68;
+}
+
+
+
+ .containers1{
+  padding: 3% 15% !important ;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3.5rem !important;
+}
+
+.navbar{
+  padding-bottom: 4.5rem !important;
+}
+
+.nav-item{
+  padding: 0 7px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrate-light" ;
+  font-weight: lighter;
+}
+
+.downbtn{
+  margin: 5% 3% 5% 0;
+}
+
+.dog{
+  width:60%;
+}
+
+#features{
+  padding: 7%;
+}
+
+.fe{
+  color: red;
+  font-size: 1rem;
+  text-align: center;
+  padding: 5% !important;
+}
+
+.fa-3x{
+  margin-bottom: 14px;
+}
+
+.fa-3x :hover{
+  color: #ff4c68;
+}
+
+#testimonials{
+  padding: 7% 10%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.dog2{
+  border-radius: 100%;
+  width: 170px;
+  margin: 20px;
+}
+
+#press{
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 0 28px;
+}
+
+.girl{
+  border-radius: 100%;
+  width: 170px;
+  margin: 20px;
+}
+
+.hh2{
+  text-align: center;
+  padding: 20px 0 ;
+}
+
+.ro21{
+  padding: 5% 10%;
+}
+
+#pricing{
+  background-color: #ff7171;
+  margin-top: 10px;
+}
+
+#cta{
+  background-color: #ff7171;
+  text-align: center;
+  padding-bottom: 15px !important;
+  color:#fff;
+  margin-bottom: 5%;
+}
+
+#footer{
+  text-align: center;
+  background-color: #eeebdd;
+  margin-bottom: 0;
+}
+
+.links{
+  font-family:sans-serif;
+  margin-top: 5px;
+}
+
+.icons{
+  text-align: center;
+  margin-bottom: 15px;
+  margin-right: 90px;
+}
+
+.fa-1x{
+  margin-left: 30px;
+}
+
+@media(max-width:515px){
+  .dog{
+    margin-top: 10px;
+  }
+}
+
+@media(max-width:991px){
+  #title{
+    text-align: center;
+  }
+}
+
+@media(max-width:992px){
+  .ro21{
+    text-align: center;
+  }
+}
+
+@media(max-width: 992px){
+  .Labrador{
+    margin-top: 15px;
+  }
+}
+
+@media(max-width: 992px){
+  .Mastiff{
+    margin-top: 15px;
+  }
+}
